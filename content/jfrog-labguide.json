@@ -1,0 +1,126 @@
+[
+
+  {
+    "Name": "JFrog Artifactory on GCP",
+    "Language": "English",
+    "BaseURL": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/2-create-npm-build/npm-example/README.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/CODE_OF_CONDUCT.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/1_prerequisites/11_Google_Cloud_Account.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/1_prerequisites/12_JFrog_Free_Tier.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/1_prerequisites/_index.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/2_devops_cloud/21_continuous_integration_and_delivery.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/2_devops_cloud/22_binary_repository_management.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/2_devops_cloud/23_dev_sec_ops.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/2_devops_cloud/24_jfrog_platform_overview.md",
+        "Order": 8
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/2_devops_cloud/_index.md",
+        "Order": 9
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/3_workshop/_index.md",
+        "Order": 10
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/4_workshop_setup/41_start_gcp_cloud_shell.md",
+        "Order": 11
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/4_workshop_setup/42_start_gke_cluster.md",
+        "Order": 12
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/4_workshop_setup/43_create_docker_repo.md",
+        "Order": 13
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/4_workshop_setup/44_get_artifactory_api_key.md",
+        "Order": 14
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/4_workshop_setup/45_declare_variables.md",
+        "Order": 15
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/4_workshop_setup/_index.md",
+        "Order": 16
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/5_build_publish_app/51_Build_and_Push_JFrog_Cli_Docker_Image copy.md",
+        "Order": 17
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/5_build_publish_app/52_Build_and_Push_Npm_Docker_Image.md",
+        "Order": 18
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/5_build_publish_app/_index.md",
+        "Order": 19
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/6_deploy_gke/_index.md",
+        "Order": 20
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/7_conclusion/_index.md",
+        "Order": 21
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/cleanup.md",
+        "Order": 22
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/resources.md",
+        "Order": 23
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/content/_index.md",
+        "Order": 24
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/CONTRIBUTING.md",
+        "Order": 25
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/pipeline/webhosting/README.md",
+        "Order": 26
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/README.md",
+        "Order": 27
+      },
+	  {
+        "RawFilePath": "https://raw.githubusercontent.com/jfrogtraining/clouddays/master/workshop-app/README.md",
+        "Order": 28
+      }
+    ]
+  }
+]
